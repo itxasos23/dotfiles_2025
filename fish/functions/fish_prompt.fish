@@ -1,0 +1,1 @@
+/home/itxaso/.local/share/omf/themes/pie/fish_prompt.fish
