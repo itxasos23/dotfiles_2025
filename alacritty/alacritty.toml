@@ -1,0 +1,31 @@
+general.import = ["/home/itxaso/.alacritty-colorscheme/themes/remedy_dark.yaml"]
+
+[font]
+size = 10.0
+
+[font.bold]
+family = "terminal-font"
+style = "Bold"
+
+[font.bold_italic]
+family = "terminal-font"
+style = "Bold Italic"
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[font.italic]
+family = "terminal-font"
+style = "Italic"
+
+[font.normal]
+family = "terminal-font"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 0
+
+[terminal.shell]
+program = "/usr/bin/fish"

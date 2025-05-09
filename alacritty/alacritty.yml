@@ -1,0 +1,26 @@
+general.import:
+  - ~/.alacritty-colorscheme/themes/remedy_dark.yaml
+
+font:
+  normal:
+    family: terminal-font 
+    style: Regular 
+  bold:
+    family: terminal-font
+    style: Bold 
+  italic:
+    family: terminal-font
+    style: Italic 
+  bold_italic:
+    family: terminal-font
+    style: Bold Italic
+  size: 10.0
+  offset:
+    x: 0
+    y: 0
+  glyph_offset:
+    x: 0
+    y: 0
+
+terminal.shell:
+  program: /usr/bin/fish
